@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jasontkg.github.io/de-que-estado-es/sitemap.xml
